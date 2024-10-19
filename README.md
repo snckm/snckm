@@ -1,6 +1,6 @@
 # 👋 **Hi, I'm SarbaNanda!**
 
-![JavaScript](assets/banner.jpg)
+<!-- ![JavaScript](assets/banner.jpg) -->
 
 I'm a **self-taught web and mobile developer** passionate about building responsive websites and mobile applications. My journey in programming started with web development, and I’ve gained proficiency in several technologies including **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, **React Native**, and **Next.js**. Currently, I'm diving deeper into **Python** to expand my backend development skills.
 
